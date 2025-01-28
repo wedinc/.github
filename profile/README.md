@@ -1,4 +1,4 @@
 ## Welcome!! ![mona-whisper](https://github.githubassets.com/images/mona-whisper.gif)
 
 ## Company Deck For Engineer
-[![company guide](https://user-images.githubusercontent.com/43776161/235406422-ba3e8157-0eb3-42a0-a470-97d1e475f1d5.svg)](https://speakerdeck.com/wed/wed-company-deck-for-engineer)
+[![company guide](https://raw.githubusercontent.com/wedinc/.github/69a1f4796eee03e2de950aff068a793e9b2696a9/profile/WEDCompanyUpdate.svg)](https://speakerdeck.com/wed/wed-company-deck)
